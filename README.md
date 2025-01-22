@@ -1,2 +1,2 @@
-# cop3502_hw1
-Library utilizing dynamic memory allocation in C
+# cop3502_library
+Library utilizing structs w/ dynamic memory allocation in C
